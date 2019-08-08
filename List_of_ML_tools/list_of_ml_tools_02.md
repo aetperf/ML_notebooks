@@ -1,8 +1,13 @@
 # Some cool open-source Python packages for Machine Learning EP 2
 
-This is a follow-up of this post:  
+
+There is a very rich ecosystem of Python libraries related to ML. Here is a list of some “active”, open-source packages that may be useful for ML day-to-day activities.
+
+This post is following this one:
 
 * [Some cool open-source Python packages for Machine Learning EP 1](https://aetperf.github.io/2019/07/11/Some-cool-open-source-Python-packages-for-Machine-Learning.html) 
+
+![moebius](moebius.jpg)
 
 ## Database connectivity
 
@@ -47,7 +52,7 @@ This is a follow-up of this post:
 
 ## Data visualization
 
-* [kepler.gl](https://github.com/keplergl/kepler.gl) - a powerful open source geospatial analysis tool for large-scale data sets (with a jupyter widget, to render large-scale interactive maps in Jupyter Notebook.).  
+* [kepler.gl](https://github.com/keplergl/kepler.gl) - a powerful open source geospatial analysis tool for large-scale data sets (WITH A JUPYTER WIDGET to render large-scale interactive maps in Jupyter Notebook).  
 * [glue](https://glueviz.org/) - a library to explore relationships within and among related datasets.
 * [KeplerMapper](https://github.com/scikit-tda/kepler-mapper) - an implementation of the TDA Mapper algorithm for visualization of high-dimensional data.
 
