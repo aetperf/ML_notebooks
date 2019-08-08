@@ -1,6 +1,8 @@
 # Some cool open-source Python packages for Machine Learning EP 2
 
-This is a follow-up of [this](https://aetperf.github.io/2019/07/11/Some-cool-open-source-Python-packages-for-Machine-Learning.html) post.
+This is a follow-up of this post:  
+
+* [Some cool open-source Python packages for Machine Learning EP 1](https://aetperf.github.io/2019/07/11/Some-cool-open-source-Python-packages-for-Machine-Learning.html) 
 
 ## Database connectivity
 
@@ -26,6 +28,7 @@ This is a follow-up of [this](https://aetperf.github.io/2019/07/11/Some-cool-ope
 
 ## Auto-ML
 
+* [auto-sklearn](https://github.com/automl/auto-sklearn) - an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
 * [Auto-Keras](https://github.com/keras-team/autokeras) - an open source software library for automated machine learning.  
 * [Keras Tuner](https://github.com/keras-team/keras-tuner) - An hyperparameter tuner for Keras.
 
@@ -33,14 +36,14 @@ This is a follow-up of [this](https://aetperf.github.io/2019/07/11/Some-cool-ope
 
 * [Skater](https://github.com/oracle/Skater) - a unified framework to enable Model Interpretation for all forms of model
 
-## ML pipeline
-
-* [papermill](https://github.com/nteract/papermill) - a tool for parameterizing, executing, and analyzing Jupyter Notebooks.
-
-
-## Workflow management system
+## Workflow management
 
 * [prefect](https://github.com/PrefectHQ/prefect) - a workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine. 
+* [papermill](https://github.com/nteract/papermill) - a tool for parameterizing, executing, and analyzing Jupyter Notebooks.
+
+## Model management
+
+* [Studio](https://github.com/studioml/studio) - a model management framework written in Python to help simplify and expedite your model building experience. 
 
 ## Data visualization
 
