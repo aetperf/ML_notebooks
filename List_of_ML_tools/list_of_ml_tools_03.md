@@ -47,6 +47,10 @@ This post is following these ones:
 * [horovod](https://github.com/horovod/horovod) - a distributed training framework for TensorFlow, Keras, PyTorch, and MXNet. The goal of Horovod is to make distributed Deep Learning fast and easy to use.
 * [jupyterlab-nvdashboard](https://github.com/rapidsai/jupyterlab-nvdashboard) - A JupyterLab extension for displaying dashboards of GPU usage.
 
+## Model analysis
+
+* [tf-explain](https://github.com/sicara/tf-explain) - implements interpretability methods as Tensorflow 2.0 callbacks to ease neural network's understanding.
+
 ## App framework
 
 * [Streamlit](https://github.com/streamlit/streamlit) - lets you create apps for your machine learning projects with deceptively simple Python scripts. It supports hot-reloading, so your app updates live as you edit and save your file. No need to mess with HTTP requests, HTML, JavaScript, etc. All you need is your favorite editor and a browser. 
