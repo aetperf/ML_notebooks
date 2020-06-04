@@ -18,3 +18,17 @@ This post is following these ones:
 
 (☞ﾟヮﾟ)☞
 
+## Privacy & Security
+
+[FATE](https://github.com/FederatedAI/FATE) - an open-source project initiated by Webank's AI Department to provide a secure computing framework to support the federated AI ecosystem. It implements secure computation protocols based on homomorphic encryption and multi-party computation (MPC). It supports federated learning architectures and secure computation of various machine learning algorithms, including logistic regression, tree-based algorithms, deep learning and transfer learning.
+
+Definition of federated learning from [Wikipedia](https://en.wikipedia.org/wiki/Federated_learning):
+
+> Federated learning (aka collaborative learning) is a machine learning technique that trains an algorithm across multiple decentralized edge devices or servers holding local data samples, without exchanging their data samples. This approach stands in contrast to traditional centralized machine learning techniques where all data samples are uploaded to one server, as well as to more classical decentralized approaches which assume that local data samples are identically distributed.
+
+> Federated learning enables multiple actors to build a common, robust machine learning model without sharing data, thus addressing critical issues such as data privacy, data security, data access rights and access to heterogeneous data. Its applications are spread over a number of industries including defense, telecommunications, IoT, or pharmaceutics. 
+
+## NOT PYTHON
+
+* [Flyte](https://github.com/lyft/flyte) - a container-native, type-safe workflow and pipelines platform optimized for large scale processing and machine learning written in Golang. Workflows can be written in any language, with out of the box support for Python.
+
